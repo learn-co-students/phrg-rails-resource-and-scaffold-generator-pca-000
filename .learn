@@ -7,3 +7,4 @@ languages:
 type: 
   - readme
 resources: 1
+parent_template: git@github.com:learn-co-curriculum/rails-resource-and-scaffold-generator.git
